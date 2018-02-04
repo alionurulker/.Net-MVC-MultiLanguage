@@ -1,2 +1,2 @@
 # .Net-MVC-MultiLanguage
-asp.net mvc multiLanguage
+If you apply your project, don't forget to do Access Modifier: Public.
