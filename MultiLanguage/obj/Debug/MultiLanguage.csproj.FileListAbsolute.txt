@@ -1,0 +1,262 @@
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csprojResolveAssemblyReference.cache
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csproj.GenerateResource.Cache
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\ApplicationInsights.config
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\csc.exe
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\vbc.exe
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll.config
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\MultiLanguage.pdb
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\tr\MultiLanguage.resources.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\EntityFramework.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.Web.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.ApplicationInsights.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Owin.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.Razor.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\WebGrease.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.Web.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.ApplicationInsights.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.Razor.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.pdb
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\EntityFramework.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeText.resources
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeText.tr.resources
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\obj\Debug\tr\MultiLanguage.resources.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.dll
+c:\users\kzmyvr\documents\visual studio 2015\Projects\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.pdb
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\ApplicationInsights.config
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\csc.exe
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\vbc.exe
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll.config
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\MultiLanguage.pdb
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\tr\MultiLanguage.resources.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\EntityFramework.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.Web.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Owin.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.Razor.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\WebGrease.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.Web.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.Razor.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.pdb
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\EntityFramework.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csprojResolveAssemblyReference.cache
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeText.resources
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeText.tr.resources
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csproj.GenerateResource.Cache
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csproj.CoreCompileInputs.cache
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\obj\Debug\tr\MultiLanguage.resources.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.dll
+C:\Users\AliOnur\Desktop\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.pdb
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\ApplicationInsights.config
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\csc.exe
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\vbc.exe
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll.config
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\MultiLanguage.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\MultiLanguage.pdb
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\tr\MultiLanguage.resources.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\EntityFramework.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.Web.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Owin.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.Razor.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\WebGrease.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.Web.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.Helpers.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.Mvc.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.Optimization.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.Razor.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\System.Web.WebPages.Razor.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Antlr3.Runtime.pdb
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Newtonsoft.Json.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\EntityFramework.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\EntityFramework.SqlServer.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csprojResolveAssemblyReference.cache
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeText.resources
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.Resources.HomeText.tr.resources
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.csproj.GenerateResource.Cache
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\obj\Debug\tr\MultiLanguage.resources.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.dll
+C:\Users\AliOnur\Desktop\üniversite\2.Sınıf\Web Programlama\Web Programlama Ödevi\MultiLanguage\MultiLanguage\obj\Debug\MultiLanguage.pdb
